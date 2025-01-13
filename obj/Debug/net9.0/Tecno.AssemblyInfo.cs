@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tecno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a677dab676c1d430c51ca4ab2870bd8e83ab457f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a0394de5ea5abfb880135b22f208be0d6191b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tecno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tecno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
